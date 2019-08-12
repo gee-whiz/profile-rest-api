@@ -1,0 +1,3 @@
+django==v2.2.4
+djangorestframework==3.9.2
+sqlparse
